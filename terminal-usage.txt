@@ -1,0 +1,8 @@
+cd : Change Directory. (Thay đổi thư mục hiện tại đang truy vấn)
+ls : List
+mkdir : Make directory. (Tạo mới một thư mục).
+rmdir : Remove directory. (Xóa một thư mục).
+clear : clear info in terminal.
+pwd : Hiển thị vị trí hiện tại đang truy vấn.
+cat + file : hiển thị nội dung file.
+.gitignore : là file chứa các đường dẫn, thư mục đến file, folder mà chúng ta không cần đưa vào git .
