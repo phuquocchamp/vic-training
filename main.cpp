@@ -7,5 +7,6 @@ int main(){
     cout << "This is line 1\n";
     cout << "Git/Github Training";
     cout << "This is line 2\n";
+    cout << "local";
     return 0;
 }
